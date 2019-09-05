@@ -95,7 +95,7 @@ library
                        dlist,
                        filepath,
                        containers >= 0.5.7,
-                       microlens >= 0.3.0.0,
+                       microlens >= 0.4.11.2,
                        microlens-th,
                        microlens-mtl,
                        config-ini,
